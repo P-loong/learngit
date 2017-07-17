@@ -1,0 +1,2 @@
+git config --global user.name "wtx"  
+git config --global user.email "1234..@qq.com"
